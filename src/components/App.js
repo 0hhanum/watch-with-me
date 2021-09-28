@@ -1,6 +1,11 @@
+import Router from "Components/Router";
 
 function App() {
-  return (<div className="App" />);
+  return (
+    <>
+      <Router />
+    </>
+  );
 }
 
 export default App;
