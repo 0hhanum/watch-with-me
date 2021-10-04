@@ -1,5 +1,7 @@
+import "./Header.css";
+
 export default () => (
-    <header>
+    <header className="nav">
         <ul>
             <li>
                 <a href="/">영화</a>
