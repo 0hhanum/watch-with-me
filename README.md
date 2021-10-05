@@ -22,7 +22,8 @@ Movie info service 🍿
 <br>
 
 ```
-- Check movie or tv program lists
+- Find movie or tv program lists
+    - Can filter them by [now playing, upcoming, top rated, popular, airing today]
 - Search contents
 - See content details
 ```
