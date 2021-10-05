@@ -1,5 +1,5 @@
+## Watch-with-me (React practice)
 
-## Watch-with-me (practice react)
 <br>
 
 Movie info service 🍿
@@ -7,11 +7,20 @@ Movie info service 🍿
 <br>
 
 ### Using...
+<br>
+
 ```
 - React
+    - style-components
+    - styled-reset
+    - react-router-dom
+- Movie API from themoviedb
+- Axios to send HTTP requests
 ```
 
 ### Features...
+<br>
+
 ```
 - Check movie or tv program lists
 - Search contents
